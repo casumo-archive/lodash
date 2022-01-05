@@ -1182,9 +1182,9 @@ doctrine@^2.0.0:
     esutils "^2.0.2"
     isarray "^1.0.0"
 
-dojo@^1.11.2:
-  version "1.11.2"
-  resolved "https://registry.yarnpkg.com/dojo/-/dojo-1.11.2.tgz#3e713cab40093aba9120304f0ca5053ac4d4193d"
+dojo@^1.16.4:
+  version "1.16.4"
+  resolved "https://registry.yarnpkg.com/dojo/-/dojo-1.16.4.tgz#b7dc831d5837aa222fa4e19fce465756b090bb95"
 
 dom-serializer@0, dom-serializer@~0.1.0:
   version "0.1.0"
@@ -1762,7 +1762,7 @@ is-number@^2.0.2, is-number@^2.1.0:
 
 is-posix-bracket@^0.1.0:
   version "0.1.1"
-  resolved "http://registry.npmjs.org/is-posix-bracket/-/is-posix-bracket-0.1.1.tgz#3334dc79774368e92f016e6fbc0a88f5cd6e6bc4"
+  resolved "https://registry.npmjs.org/is-posix-bracket/-/is-posix-bracket-0.1.1.tgz#3334dc79774368e92f016e6fbc0a88f5cd6e6bc4"
 
 is-primitive@^2.0.0:
   version "2.0.0"
@@ -2621,7 +2621,7 @@ regenerator-runtime@^0.9.5:
 
 regex-cache@^0.4.2:
   version "0.4.3"
-  resolved "http://registry.npmjs.org/regex-cache/-/regex-cache-0.4.3.tgz#9b1a6c35d4d0dfcef5711ae651e8e9d3d7114145"
+  resolved "https://registry.npmjs.org/regex-cache/-/regex-cache-0.4.3.tgz#9b1a6c35d4d0dfcef5711ae651e8e9d3d7114145"
   dependencies:
     is-equal-shallow "^0.1.3"
     is-primitive "^2.0.0"
